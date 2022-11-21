@@ -57,7 +57,7 @@
                 Invite = "34tJXDPzvq",
                 RememberJoins = false
             },
-        KeySystem = true,
+        KeySystem = false,
         KeySettings = {
             Title = "Vapor Artworks",
             Subtitle = "Key System",
